@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42d6d036-0c78-48a5-a134-230f75de66ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1pN7aSgrj3Og9gsFEt8fEeUdDaN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\allegro_api\offer" />
+      <recent name="C:\xampp\htdocs\allegro_api\products" />
+      <recent name="C:\xampp\htdocs\allegro_api" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42d6d036-0c78-48a5-a134-230f75de66ee" name="Default Changelist" comment="" />
+      <created>1615011757870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615011757870</updated>
+      <workItem from="1615011759769" duration="7870000" />
+      <workItem from="1615060705317" duration="3279000" />
+      <workItem from="1615187209685" duration="26777000" />
+      <workItem from="1615276383971" duration="4560000" />
+      <workItem from="1615323985251" duration="2957000" />
+      <workItem from="1615359676375" duration="14812000" />
+      <workItem from="1615444272767" duration="11259000" />
+      <workItem from="1615462661574" duration="1635000" />
+      <workItem from="1615532141171" duration="14087000" />
+      <workItem from="1615638725782" duration="605000" />
+      <workItem from="1615792021683" duration="16143000" />
+      <workItem from="1615990783200" duration="1256000" />
+      <workItem from="1616075038679" duration="16355000" />
+      <workItem from="1616127800070" duration="593000" />
+      <workItem from="1616329656766" duration="682000" />
+      <workItem from="1616395355796" duration="18297000" />
+      <workItem from="1616508211711" duration="8633000" />
+      <workItem from="1616594222729" duration="6837000" />
+      <workItem from="1616694135721" duration="601000" />
+      <workItem from="1616742751094" duration="9304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="713" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615366291170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1615366291170" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615366673891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615366673891" />
+    <state x="764" y="242" key="NewPhpClassDialog" timestamp="1615456638929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="242" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615456638929" />
+    <state x="795" y="442" key="NewPhpFileDialog" timestamp="1615198431905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="442" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615198431905" />
+    <state x="410" y="0" width="1526" height="1055" maximized="true" key="dock-window-1" timestamp="1616743153802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="0" width="1526" height="1055" maximized="true" key="dock-window-1/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1616743153802" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1615795637437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615795637437" />
+    <state x="616" y="235" key="run.anything.popup" timestamp="1615797420585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615797420585" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1615533354317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615533354317" />
+  </component>
+</project>
