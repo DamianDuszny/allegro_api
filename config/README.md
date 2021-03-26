@@ -1,0 +1,1 @@
+Change file name to app.json and fill client_id and client_secret with your allegro app data
