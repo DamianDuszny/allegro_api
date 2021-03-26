@@ -10,7 +10,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1pN7aSgrj3Og9gsFEt8fEeUdDaN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,6 +59,7 @@
       <workItem from="1616594222729" duration="6837000" />
       <workItem from="1616694135721" duration="601000" />
       <workItem from="1616742751094" duration="9304000" />
+      <workItem from="1616769950967" duration="65000" />
     </task>
     <servers />
   </component>
@@ -78,10 +83,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="795" y="442" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615198431905" />
-    <state x="410" y="0" width="1526" height="1055" maximized="true" key="dock-window-1" timestamp="1616743153802">
+    <state x="410" y="0" width="1526" height="1055" maximized="true" key="dock-window-1" timestamp="1616770015615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="410" y="0" width="1526" height="1055" maximized="true" key="dock-window-1/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1616743153802" />
+    <state x="410" y="0" width="1526" height="1055" maximized="true" key="dock-window-1/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1616770015615" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1615795637437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

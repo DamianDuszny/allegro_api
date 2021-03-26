@@ -29,16 +29,16 @@ class OfferManagement
      */
     public function Prepare(Offer $offer) :bool
     {
-        $fields = get_object_vars($offer);
-        foreach ($fields as $fieldName => $field)
-        {
-            if(is_null($field))
-            {
-                $this->missingOfferFields[] = $fieldName;
-            }
-        }
-        if($this->missingOfferFields)
-            return false;
+//        $fields = get_object_vars($offer);
+//        foreach ($fields as $fieldName => $field)
+//        {
+//            if(is_null($field))
+//            {
+//                $this->missingOfferFields[] = $fieldName;
+//            }
+//        }
+//        if($this->missingOfferFields)
+//            return false;
 
         $this->offer = $offer;
         return true;
