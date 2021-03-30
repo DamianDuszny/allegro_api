@@ -47,7 +47,7 @@ class curlCommon
     */
     public function set_url(string $url, $customUrl = false)
     {
-        ($customUrl) ? $this->url = $url : $this->url = $this->data->allegro_sandbox . $url;
+        ($customUrl) ? $this->url = $url : $this->url = $this->data->url . $url;
     }
     public function set_post(string $post_fields)
     {

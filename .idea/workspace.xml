@@ -4,10 +4,7 @@
     <list default="true" id="42d6d036-0c78-48a5-a134-230f75de66ee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app-example.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/app-example.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/curlCommon.php" beforeDir="false" afterPath="$PROJECT_DIR$/curlCommon.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/allegro_auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/main/allegro_auth.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <workItem from="1616742751094" duration="9304000" />
       <workItem from="1616769950967" duration="1263000" />
       <workItem from="1616802237670" duration="192000" />
-      <workItem from="1617115389151" duration="1685000" />
+      <workItem from="1617115389151" duration="2194000" />
     </task>
     <servers />
   </component>
