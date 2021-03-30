@@ -21,25 +21,25 @@ if(file_exists("./main/tokens.json")) {
     $tokens = json_decode(file_get_contents("./main/tokens.json"));
     $user = $tokens->user_access_token;
     $refresh = $tokens->user_refresh_token;
-    if ($user->expire < time())
+    if ($user->expire < time() && $auth->refreshUserToken($refresh->token))
     {
-        if(!$auth->refreshUserToken($refresh->token))
-        {
-            $auth = $auth->setVerificationUri("https://google.com");
-            if($auth)
-            {
-                print($auth->getVerificationUri());
-                $_SESSION["device_code"] = $auth->getDeviceCode();
-            }
-            else
-            {
-                print("something went wrong");
-            }
-            die();
-        }
         $auth->saveTokens("file");
     }
     $_SESSION["user_access_token"] = $tokens->user_access_token->token;
+}
+else
+{
+    $auth = $auth->setVerificationUri("https://google.com");
+    if($auth)
+    {
+        print($auth->getVerificationUri());
+        $_SESSION["device_code"] = $auth->getDeviceCode();
+    }
+    else
+    {
+        print("something went wrong");
+    }
+    die();
 }
 header('Content-Type: application/json', true, 200); //just for testing
 $curl = new CurlCommon();

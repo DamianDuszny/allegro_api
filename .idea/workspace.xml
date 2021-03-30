@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="42d6d036-0c78-48a5-a134-230f75de66ee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +63,7 @@
       <workItem from="1616694135721" duration="601000" />
       <workItem from="1616742751094" duration="9304000" />
       <workItem from="1616769950967" duration="1263000" />
+      <workItem from="1616802237670" duration="192000" />
     </task>
     <servers />
   </component>
@@ -85,10 +87,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="795" y="442" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615198431905" />
-    <state x="410" y="0" width="1526" height="1055" maximized="true" key="dock-window-1" timestamp="1616770015615">
+    <state x="426" y="0" width="1510" height="1055" maximized="true" key="dock-window-1" timestamp="1616802367658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="410" y="0" width="1526" height="1055" maximized="true" key="dock-window-1/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1616770015615" />
+    <state x="426" y="0" width="1510" height="1055" maximized="true" key="dock-window-1/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1616802367658" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1615795637437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
