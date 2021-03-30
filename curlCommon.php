@@ -21,11 +21,15 @@ class curlCommon
     private $put;
     public function __construct()
     {
+        if(!file_exists("./config/app.json"))
+            die("Cannot find file ./config/app.json");
         $data = json_decode(file_get_contents("./config/app.json"));
         $this->data = $data;
         $this->client_secret = $data->client_secret;
         $this->client_id = $data->client_id;
-        $this->url = $data->allegro_sandbox;
+        if(!$this->client_secret || !$this->client_id)
+            die("no data application (client secret and client id) isnide app.json");
+        $this->url = $data->url;
         $this->content_type = "application/vnd.allegro.public.v1+json";
         $this->accept_type = "application/vnd.allegro.public.v1+json";
     }

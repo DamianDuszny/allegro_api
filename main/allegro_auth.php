@@ -92,7 +92,7 @@ class AllegroAuth
         $ch->set_url($user_token_uri, true);
         $ch->set_auth();
         $ch->execute_curl();
-        if($this->ch->get_status()!=200 || $this->ch->get_status()!=205)
+        if($this->ch->get_status()!=200)
             return false;
         $result = json_decode($ch->get_result());
         $this->result = $result;

@@ -1,6 +1,5 @@
 {
   "client_id": "",
   "client_secret": "",
-  "allegro_sandbox": "https://api.allegro.pl.allegrosandbox.pl",
-  "allegro_url": "https://api.allegro.pl"
+  "url": "https://api.allegro.pl.allegrosandbox.pl"
 }

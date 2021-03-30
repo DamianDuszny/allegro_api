@@ -16,6 +16,12 @@ require_once("./offer/Add_Image.php");
 
 require_once("./offer/ShippingRates.php");
 require_once("./order/OrderClass.php");
+
+
+/*
+ * These are examples of using this library
+ * */
+
 $auth = new AllegroAuth();
 if(file_exists("./main/tokens.json")) {
     $tokens = json_decode(file_get_contents("./main/tokens.json"));
@@ -34,6 +40,10 @@ else
     {
         print($auth->getVerificationUri());
         $_SESSION["device_code"] = $auth->getDeviceCode();
+        /*
+         * when the user grants permissions for the application you have to use method setUserToken() from AllegroAuth class
+         * an example of use can be found in the auth.php file
+         * */
     }
     else
     {
